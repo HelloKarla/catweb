@@ -1,0 +1,36 @@
+.slogan{
+    font-size: 20px;
+    color: white;
+    margin-top: 26px;
+}
+.topbarh2{
+    text-align: center;
+    color:white;
+    margin-top: 25px;
+}
+#topbarimg{
+    height:85px;
+    width:85px;
+    padding-top:5px;
+}
+#topbar{
+    background-color: #4e0606;
+}
+.navbar-nav{
+    font-size: 16px;
+    margin-left: 50px;
+}
+.list-group{
+    margin-top:30px;
+}
+.card{
+    margin-top: 60px;
+}
+.card-img-top{
+    height:80%;
+    width:80%;
+}
+#adimg{
+    height:100%;
+    width:100%;
+}
